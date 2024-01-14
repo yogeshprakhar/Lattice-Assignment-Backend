@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
--> This project is developed using Express.js Framework and MongoDB Database. <br>
+-> This project is developed using Express.js Framework, MongoDB Database and mongoose. <br>
 <br>
 -> Bcrypt is used to to hash the password before storing in database while patient registering.(can use bcrypt also to check password while login)
 <br>
@@ -11,7 +11,7 @@
 -> Clodinary is used to store the photo(image and videos) and cloudinary give back us a url that i can store in mongoDB as a string.
 <br>
 <br>
--> Multer is used in project to uplad the photo on server.
+-> Multer is used in project to upload the photo on server. and cookie-parser and cors are also used and dotenv for enviornment variable.
 <br><br>
 <br>
 .............POSTMAN..................
@@ -32,7 +32,7 @@ Postman Screenshot of registering new patient
 
 <br>
 <br>
-Postman Screenshot of getting all details by using hospitalID
+Postman Screenshot of getting all details by using hospitaID
 <br>
 <br>
 
