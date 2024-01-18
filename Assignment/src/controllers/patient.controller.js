@@ -37,7 +37,7 @@ const registerPatient = asyncHandler(async (req, res) => {
     throw new ApiError(400, "All Fields are required");
   }
   // Password strength check
-  if (isStrongPassword(password)) {
+  if (!isStrongPassword(password)) {
     throw new ApiError(400, "Password is not strong");
   }
   // Address length check
