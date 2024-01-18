@@ -21,7 +21,7 @@ Endpoint for patient registration - http://localhost:7000/patient/register
 Endpoint for fetching details - http://localhost:7000/patient/id
 <br>
 <br>
-Collection Access Key - https://api.postman.com/collections/30656931-7e668f8a-bb80-40a6-b501-1017ee9b9075?access_key=PMAT-01HM4A25HNDA6CG5AMG3J78QQ3
+Collection Access Key - https://elements.getpostman.com/redirect?entityId=30656931-7e668f8a-bb80-40a6-b501-1017ee9b9075&entityType=collection
 <br>
 
 
